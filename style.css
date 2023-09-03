@@ -947,6 +947,7 @@ h1.big-text {
 	max-width: 100%;
 	font-size: 0;
 	line-height: 0;
+	/* height: auto; */
 }
 
 .grid-sizer {
@@ -978,7 +979,7 @@ h1.big-text {
 }
 
 .grid-item img {
-	width: 95% !important;
+	width: 100% !important;
 	height: auto;
 	display: block;
 }
